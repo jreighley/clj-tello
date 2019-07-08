@@ -9,13 +9,14 @@ Clone this repo and play at the repl
 ## Usage
 
 From a clojure Repl:
+```
 (mount/start)   
 (command "takeoff")
 (command "ccw 360")
 @tello-state  
 (command "land")
 (mount/stop)
-
+```
 ### Docs
 The commands are documented in the [Tello sdk docs] (https://dl-cdn.ryzerobotics.com/downloads/tello/20180910/Tello%20SDK%20Documentation%20EN_1.3.pdf)
 
