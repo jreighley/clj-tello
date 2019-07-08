@@ -18,7 +18,7 @@ From a clojure Repl:
 (mount/stop)
 ```
 ### Docs
-The commands are documented in the [Tello sdk docs] (https://dl-cdn.ryzerobotics.com/downloads/tello/20180910/Tello%20SDK%20Documentation%20EN_1.3.pdf)
+The commands are documented in the [Tello sdk docs](https://dl-cdn.ryzerobotics.com/downloads/tello/20180910/Tello%20SDK%20Documentation%20EN_1.3.pdf)
 
 ### Credits --
 UDP connectivity lifted from [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook/blob/master/05_network-io/5-11_udp.asciidoc)
